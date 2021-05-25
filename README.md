@@ -5,7 +5,7 @@
 This repository is operated for intern training at MLCS Lab. in Yonsei University.
 
 [id]: URL "Optional Title here"
-Lab website: [MLCS][mlcs_link]
+Lab website: [MLCS][mlcs_link]            
 Github : [MLCS-Internship-Program][github_link]
 
 [mlcs_link]: https://mlcs.yonsei.ac.kr "Lab Wesite"
